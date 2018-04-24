@@ -6,6 +6,8 @@ library(readxl)
 library(foreign)
 library(survey)
 
+#hi reah
+
 ##Importing Data
 
 #AtlasPlus Data (Incidence of Congenital Syphilis in Louisiana Counties for 2015)
